@@ -1,0 +1,8 @@
+pyodbc
+psycopg2-binary
+flask
+flask-restful
+gunicorn
+pytz
+tzlocal
+sqlalchemy
